@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0af69edc-9b9c-489c-9007-6d6ae1f716ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/LibVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/geometry/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/geometry/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/geometry/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/geometry/Polygon2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/geometry/Shape3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/geometry/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/math/Transform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/Framebuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/Mesh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/RenderPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/Shader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/BloomEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/ChromaticAberrationEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/ColorGradingEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/DepthOfFieldEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/FilmGrainEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/GrayscaleEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/LensDistortionEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/MotionBlurEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/PostProcessingEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/SharpenEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/UnderwaterEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/effects/VignetteEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/VertexSchema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shaders/postProcessingEffectsShaders/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shaders/postProcessingEffectsShaders/bloom.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shaders/postProcessingEffectsShaders/dof.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shaders/postProcessingEffectsShaders/lensdistort.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shaders/postProcessingEffectsShaders/motionblur.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shaders/postProcessingEffectsShaders/underwater.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shaders/postProcessingEffectsShaders/vertex.vsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shaders/postProcessingEffectsShaders/vignette.fsh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="GLSL Shader" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oTerGPwmXnHYjnq1FZ78hv7uw8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aniru/Downloads/LibVertex/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0af69edc-9b9c-489c-9007-6d6ae1f716ff" name="Changes" comment="" />
+      <created>1730898191743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730898191743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
