@@ -1,6 +1,9 @@
 package com.libvertex.render;
 
 import com.libvertex.render.effects.*;
+import com.libvertex.render.material.Material;
+import com.libvertex.render.material.MaterialManager;
+import com.libvertex.render.material.PBRMaterial;
 
 public class RenderPipeline {
     private Framebuffer framebuffer;
@@ -111,7 +114,17 @@ public class RenderPipeline {
     public void toggleSharpenEffect(boolean enabled) {
         sharpenEnabled = enabled;
     }
+    public void applyMaterial(Material material) {
+        material.apply();
+    }
 
+    public void applyPBRMaterial(PBRMaterial pbrMaterial) {
+        pbrMaterial.apply();
+    }
+
+    public void cleanupMaterial() {
+        MaterialManager.cleanup();
+    }
 
     public void cleanup() {
         framebuffer.cleanup();
