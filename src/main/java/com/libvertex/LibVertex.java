@@ -5,13 +5,13 @@ import org.lwjgl.opengl.GL;
 import org.lwjgl.system.MemoryUtil;
 
 public class LibVertex {
-
-    public static void init() {
+    //creates a window
+    public static void init(int width, int height, String title) {
         if (!GLFW.glfwInit()) {
             throw new IllegalStateException("Unable to initialize GLFW");
         }
 
-        long window = GLFW.glfwCreateWindow(800, 600, "LibVertex App", MemoryUtil.NULL, MemoryUtil.NULL);
+        long window = GLFW.glfwCreateWindow(width, height, title, MemoryUtil.NULL, MemoryUtil.NULL);
         if (window == MemoryUtil.NULL) {
             throw new RuntimeException("Failed to create the GLFW window");
         }

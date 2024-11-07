@@ -1,4 +1,4 @@
-package com.libvertex.vertex;
+package com.libvertex.vertex.core;
 
 import org.lwjgl.opengl.GL30;
 import java.util.ArrayList;
@@ -46,4 +46,3 @@ class VertexAttribute {
         this.offset = offset;
     }
 }
-

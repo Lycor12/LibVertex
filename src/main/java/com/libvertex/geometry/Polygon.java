@@ -20,6 +20,10 @@ public class Polygon extends Mesh {
             vertices.add(0f);  // y-coordinate for flat polygon
             vertices.add(z);
         }
-        return vertices.stream().mapToFloat(f -> f).toArray();
+        float[] result = new float[vertices.size()];
+        for (int i = 0; i < vertices.size(); i++) {
+            result[i] = vertices.get(i);
+        }
+        return result;
     }
 }
