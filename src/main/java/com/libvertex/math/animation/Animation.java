@@ -1,5 +1,7 @@
 package com.libvertex.math.animation;
 
+import com.libvertex.vertex.transform.Transform;
+
 import java.util.List;
 
 public class Animation {
