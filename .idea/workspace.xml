@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0af69edc-9b9c-489c-9007-6d6ae1f716ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/DebugOverlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/LogManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/math/Frustum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/math/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/material/Material.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/material/MaterialManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/material/PBRMaterial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/texture/Texture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/texture/TextureArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/texture/TextureAtlas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/util/TextureLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/render/BatchRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/render/FrustumCuller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/render/InstanceRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/render/LODManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/render/OcclusionQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/render/RenderProfiler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/render/Renderable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/shader/FragmentShader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/shader/GeometryShader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/shader/ShaderManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/shader/ShaderProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/shader/ShaderUniform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/shader/VertexShader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/shader/light/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/shader/light/LightManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/shader/light/RayTraceMaterial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/shader/light/RayTraceShader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/vertex/shader/util/ShaderLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/libvertex/render/RenderPipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/libvertex/render/RenderPipeline.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +46,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">

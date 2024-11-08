@@ -6,7 +6,12 @@
 
     <groupId>com.libvertex</groupId>
     <artifactId>LibVertex</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
+    <packaging>jar</packaging>
+    <description>
+        A library to speed up game creation using LWJGL
+    </description>
+    <url>https://github.com/Lycor12/LibVertex</url>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
