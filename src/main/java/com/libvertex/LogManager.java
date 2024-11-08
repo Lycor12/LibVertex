@@ -4,8 +4,14 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+/**
+ * LogManager class handles logging operations for the application.
+ * It provides functionality to set a log file name and write log messages to the specified file.
+ */
 public class LogManager {
+    /** The name of the log file to be used */
     private static String filename;
+    /** The actual log file path used for writing logs */
     private static String LOG_FILE = filename;
 
     public static void setLogFilename(String filename) {
